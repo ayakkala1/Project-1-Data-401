@@ -10,6 +10,10 @@ To get the full census dataset
 
 `[wget | curl -O] https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv`
 
+To get the full employment and wage dataset
+
+`[wget | curl -O] https://data.iowa.gov/api/views/9u2s-sp2q/rows.csv?accessType=DOWNLOAD`
+
 To get the sample iowa dataset
 
 - Download it from Canvas
